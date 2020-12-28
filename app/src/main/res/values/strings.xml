@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Plaster</string>
+    <string name="inches">Inches</string>
+    <string name="calculate">Calculate</string>
+    <string name="plaster_calculation">Plaster Calculation</string>
+    <string name="value_of_x">Length :</string>
+    <string name="feet">Feet  ,</string>
+</resources>
